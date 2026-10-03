@@ -816,12 +816,15 @@ class AccountWorker:
             self.check_redeem_balance()
             if quest_id == 'lifetime-welcome':
                 self.onboard_claimed = True
-                add_log(f"[{self.name}] Claimed Onboard Welcome 1,500 Pts!")
+                add_log(f"[{self.name}] 🎯 Claimed Onboard Welcome (+1,500 Pts)!")
             elif quest_id == 'daily-login-1':
                 self.daily_claimed = True
-                add_log(f"[{self.name}] Claimed Daily Check-in Quest (+600 Pts)!")
+                add_log(f"[{self.name}] 🎯 Claimed Daily Check-in Quest (+600 Pts)!")
+            elif 'daily-foreground' in quest_id:
+                pts = 600 if ('3600' in quest_id or '10800' in quest_id) else (1000 if '21600' in quest_id else 2000)
+                add_log(f"[{self.name}] 🎯 Heartbeat Auto-Claimed Milestone Quest {quest_id} (+{pts} Pts)!")
             else:
-                add_log(f"[{self.name}] Claimed Quest {quest_id}!")
+                add_log(f"[{self.name}] 🎯 Claimed Quest {quest_id}!")
             return True
         return False
 
@@ -986,6 +989,15 @@ class AccountWorker:
             self.update_cluster_state()
             delta_s = max(1, self.session_uptime - old_uptime)
             add_log(f"[{self.name}] Heartbeat ACK: Mining Active (+{delta_s}s, Total: {self.session_uptime}s)")
+
+            # Autonomous Milestone-Driven Auto Quest Claim Engine on Heartbeat:
+            milestones = [3600, 10800, 21600, 43200]
+            crossed_milestone = any(old_uptime < m <= self.session_uptime for m in milestones)
+            tick_c = getattr(self, 'tick_count', 0)
+            if crossed_milestone or tick_c == 1 or not self.daily_claimed or not self.onboard_claimed or (tick_c % 5 == 0):
+                self.fetch_and_claim_quests()
+                self.check_round_redeem_status()
+
             return True
         elif r and r.status_code == 400 and 'connect foreground session not active' in r.text:
             add_log(f"[{self.name}] Foreground session expired, renewing session ID...")
@@ -1037,14 +1049,9 @@ class AccountWorker:
             if not self.start_foreground_session():
                 return
 
-        # 4. Submit heartbeat (advances mining time by ~60s)
-        self.submit_heartbeat()
-
-        # 5. Periodic Points / Daily Quest status sync (NO auto-claim, NO auto-redeem: manual buttons only!)
+        # 4. Submit heartbeat (advances mining time & auto-claims completed quests on milestone)
         self.tick_count = getattr(self, 'tick_count', 0) + 1
-        if self.tick_count == 1 or self.tick_count % 10 == 0:
-            self.sync_daily_quest_state()
-            self.check_round_redeem_status()
+        self.submit_heartbeat()
 
     def run(self):
         self.tick()
