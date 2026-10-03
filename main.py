@@ -134,11 +134,7 @@ def sync_accounts_to_github():
     if not GITHUB_TOKEN:
         return False
 
-    # SAFETY GUARD: Never overwrite cluster-state with fewer than 10 accounts.
-    # This prevents a freshly-restarted server (with only 2-3 placeholder slots)
-    # from clobbering the 200-account snapshot stored in cluster-state.
-    if len(NODES) < 10:
-        add_log(f"GitHub sync SKIPPED: only {len(NODES)} nodes loaded (safety guard - need >=10 to sync)")
+    if len(NODES) == 0:
         return False
 
     try:
@@ -1256,6 +1252,12 @@ HTML_TEMPLATE = """
   </div>
 
   <div class="grid" id="nodeGrid">
+    {% if not cluster %}
+    <div style="grid-column: 1 / -1; text-align: center; padding: 48px 24px; background: rgba(255,255,255,0.02); border: 1px dashed rgba(255,255,255,0.12); border-radius: 14px;">
+      <div style="font-size: 1.25rem; font-weight: 700; color: #00d2ff; margin-bottom: 8px;">🚀 Cluster 4 Engine Online & Ready (0/200 Nodes)</div>
+      <div style="color: #94a3b8; font-size: 0.95rem;">No dummy placeholder accounts. Run Desktop Auto Batch Creator to inject live human accounts sequentially!</div>
+    </div>
+    {% endif %}
     {% for idx, n in cluster.items() %}
     <div class="card">
       <div class="card-top">
@@ -1529,7 +1531,7 @@ def route_update_account():
             account_data = {
                 'name': new_name,
                 'email': email_clean,
-                'deviceId': dev_id or f"c3{new_idx + 1}a0e2f49583ea{new_idx + 1}",
+                'deviceId': dev_id or f"c4{new_idx + 1}a0e2f49583ea{new_idx + 1}",
                 'proxy': None,
                 'location': 'Direct Render VPS',
                 'accessToken': new_access,
@@ -1822,20 +1824,8 @@ def initialize_cluster():
         else:
             accounts = []
 
-    # If empty or only local placeholders, start with 3 placeholder slots
     if not accounts:
-        accounts = [
-            {
-                'name': f"Cluster 4 Node {i+1}",
-                'email': f"c3node{i+1}@alphea.local",
-                'deviceId': f"c3{i+1}a0e2f49583ea{i+1}",
-                'proxy': None,
-                'location': 'Direct Render VPS',
-                'accessToken': '',
-                'refreshToken': '',
-                'enabled': True
-            } for i in range(3)
-        ]
+        accounts = []
 
     with open(ACCOUNTS_FILE, 'w') as f:
         json.dump(accounts, f, indent=2)
