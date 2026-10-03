@@ -15,7 +15,7 @@ from flask import Flask, jsonify, request, render_template_string
 BASE_URL = 'https://edge.alphea.ai'
 PORT = int(os.environ.get('PORT', 5000))
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
-GITHUB_REPO = 'MeniyaTanvi/alphea-render-cluster4'
+GITHUB_REPO = 'SwingCrypto/alphea-render-cluster4'
 GITHUB_FILE_PATH = 'accounts.json'
 ACCOUNTS_FILE = 'accounts.json'
 MASTER_INVITE_CODE = os.environ.get('MASTER_INVITE_CODE', '1F2C0Y5QG_')
