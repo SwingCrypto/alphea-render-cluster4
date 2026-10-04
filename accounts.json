@@ -1258,5 +1258,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthYmlyX2hhbGw4MTNAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiIxYzY0NjZlMS1lNDYxLTQxZTQtOTgxNS0zNTVlZTBlNzQwZDgiLCJhdXRoX3RpbWUiOjE3OTExMzE5MzUsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiMzYyMmI0ZTYtNDEzNy00YTc5LWE4M2EtZDQzZjJkODhiZTE1IiwiZXhwIjoxNzkxMTM1NTM1LCJpYXQiOjE3OTExMzE5MzV9.iBYrNm8xQ3u58Ct_3odT-kqaVkWtTnZvB2Pzo8YivHI",
     "refreshToken": "oZb1A6XQJeALCkzS9Bg7bXOMAIkgnlqZIwsEePW3O9I",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 127",
+    "email": "m.bauer551@freediamond.in",
+    "deviceId": "4dab79bb69a907f5",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im0uYmF1ZXI1NTFAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiIzMmQ2NWVlOS00ZWMyLTRmN2YtODAyNC1kNTZhMmNiNDExOTQiLCJhdXRoX3RpbWUiOjE3OTExMzE5NTcsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiMTJiZGQxNWQtODYxMi00OGU0LWJjZjYtMzBjMDNiMjdjZTM0IiwiZXhwIjoxNzkxMTM1NTU3LCJpYXQiOjE3OTExMzE5NTd9.GsbOzTr8SvdkicgdkPs_NhsZODbJRkz7q9n47sBq5Po",
+    "refreshToken": "ERL0fsTMFGXyXFE-YCBkLvuVp3f4wwy_2Kru33fbdbY",
+    "enabled": true
   }
 ]
