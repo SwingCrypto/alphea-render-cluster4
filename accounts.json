@@ -1578,5 +1578,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthcmFuX21lbm9uQGZyZWVkaWFtb25kLmluIiwic2lkIjoiZDRmOTExMDYtOGJhOS00NjNkLWFlZjAtZTI0YTBiMTI4ZmQ5IiwiYXV0aF90aW1lIjoxNzkxMTMyNzAwLCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjY1Yzg5ZDk0LTM0MDgtNGVmZS04NWIwLTI3YWYwM2MwZmNlZCIsImV4cCI6MTc5MTEzNjMwMCwiaWF0IjoxNzkxMTMyNzAwfQ.LAokpjw-F6_lPdu1kq1duf372DJTCohWouWzdM_mGEA",
     "refreshToken": "dD_DbergbqH23mh8L11r_ihCW1IeoP2HbFFA9eq_kv8",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 159",
+    "email": "kunal_jones@freediamond.in",
+    "deviceId": "f387f59e0c24b96e",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imt1bmFsX2pvbmVzQGZyZWVkaWFtb25kLmluIiwic2lkIjoiZGVhZDA1YzctOTE1Yi00OWQ1LTg5NzEtMjQwZGQ2YjY0NTc0IiwiYXV0aF90aW1lIjoxNzkxMTMyNzIzLCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjMzYTZhZjk2LWIxYWUtNDkxYi1iZDU1LTNjYzVmMWIzZWZkZiIsImV4cCI6MTc5MTEzNjMyMywiaWF0IjoxNzkxMTMyNzIzfQ.ToXXOGbDfl1dSgU2cvWvUInKk7emyl_cjpBcewJZWd0",
+    "refreshToken": "BIEPfDBBdTSZYluNVvZZKfIGl-wcWQDymxseE15ywoE",
+    "enabled": true
   }
 ]
