@@ -1928,5 +1928,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImF2ZXJ5X3NtaXRoNTAyQGZyZWVkaWFtb25kLmluIiwic2lkIjoiMmJhM2ZiZTMtNWFiYy00ZGEyLWFhZjYtODk3OWMxMTM3MWU1IiwiYXV0aF90aW1lIjoxNzkxMTMzODI2LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjBmNTk3NzkxLWE2YTItNDMxMi04Y2M0LWU1MDY5ZDZlNDMyMSIsImV4cCI6MTc5MTEzNzQyNiwiaWF0IjoxNzkxMTMzODI2fQ.VXAXQ8aQFWLzLEeDExBBnkomBIyntTFgftXPvEGwcSE",
     "refreshToken": "EVHxFu6ERiH4xOkjQsbJMsym7rt2JrPCpEzmMce6qxo",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 194",
+    "email": "emily96@freediamond.in",
+    "deviceId": "371487f917887a3e",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImVtaWx5OTZAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiJhOTNlODMwNi0yZjA5LTQ3NDAtOTFhMy03ZmIxZWFlODg3YjQiLCJhdXRoX3RpbWUiOjE3OTExMzM4NDgsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiZDlmY2YwN2UtYThkZS00MTdjLWJlNzQtYjdhYTYwYzFiMTk1IiwiZXhwIjoxNzkxMTM3NDQ4LCJpYXQiOjE3OTExMzM4NDh9._LF7dAyeCcOA2J5iTOYpO5T7AmQlNy5XaBZInb-v8O4",
+    "refreshToken": "qHUjwgaJAjYproippvL_wWee7195H6BWle9ANNByJGQ",
+    "enabled": true
   }
 ]
