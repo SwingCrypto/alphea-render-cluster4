@@ -1268,5 +1268,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im0uYmF1ZXI1NTFAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiIzMmQ2NWVlOS00ZWMyLTRmN2YtODAyNC1kNTZhMmNiNDExOTQiLCJhdXRoX3RpbWUiOjE3OTExMzE5NTcsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiMTJiZGQxNWQtODYxMi00OGU0LWJjZjYtMzBjMDNiMjdjZTM0IiwiZXhwIjoxNzkxMTM1NTU3LCJpYXQiOjE3OTExMzE5NTd9.GsbOzTr8SvdkicgdkPs_NhsZODbJRkz7q9n47sBq5Po",
     "refreshToken": "ERL0fsTMFGXyXFE-YCBkLvuVp3f4wwy_2Kru33fbdbY",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 128",
+    "email": "aaronchowdhury@freediamond.in",
+    "deviceId": "536c2db66a84b3ca",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFhcm9uY2hvd2RodXJ5QGZyZWVkaWFtb25kLmluIiwic2lkIjoiMTY3ZTRhYzktOWQzNy00MjZkLTk2MjYtODZjZjQzNjExYWU3IiwiYXV0aF90aW1lIjoxNzkxMTMxOTg1LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjgzYzljMWUyLTA5NjUtNDYzYi04N2E1LWNhZGEwMWY5NWUxOSIsImV4cCI6MTc5MTEzNTU4NSwiaWF0IjoxNzkxMTMxOTg1fQ.S-hKYYExWU1RTlFdAdFVbhorRkH3XLof_c1Anw36mxU",
+    "refreshToken": "4SXq4apArX8MK_8rcUgv8_aBalIylhnaQKi2xbnDeUg",
+    "enabled": true
   }
 ]
