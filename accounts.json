@@ -1408,5 +1408,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imhhbm5haHRheWxvcjc4QGZyZWVkaWFtb25kLmluIiwic2lkIjoiZDNiZTRjZmUtNzMzMC00ODY5LTljYjItNzAxM2QzMmQ0MDMzIiwiYXV0aF90aW1lIjoxNzkxMTMyMzA2LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6ImY0YTYyMjE4LTY3ZTAtNDVjZS1hOTg3LTVmOGMyNzg3NTgyNSIsImV4cCI6MTc5MTEzNTkwNiwiaWF0IjoxNzkxMTMyMzA2fQ._qi3szFVbqeQATMnuNiGobTR1zMhvR1hJhZtWl9-nEA",
     "refreshToken": "riok3CGCZxDKmZX1SKW2py-WcqUyibJWt3XvFLLc3LE",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 142",
+    "email": "krishna.shah75@freediamond.in",
+    "deviceId": "df7423d835157802",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImtyaXNobmEuc2hhaDc1QGZyZWVkaWFtb25kLmluIiwic2lkIjoiMGY2ZWM4MGEtODljOS00YTM4LTkwNzktNTZjZGU3MGIzYTZkIiwiYXV0aF90aW1lIjoxNzkxMTMyMzI5LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjZiNGU2MjE5LTE4ZjgtNDcyYi05OGNiLTdmY2Q2MjM3Zjc5YSIsImV4cCI6MTc5MTEzNTkyOSwiaWF0IjoxNzkxMTMyMzI5fQ._ooxPQGBJ-LdZ8EfwHTs62xL3bp1rL8X_4wV-WdZFZU",
+    "refreshToken": "ZnuORYOyhqOGZvnTu-E2AMqULyp6JZp9vLlSSsS_yvw",
+    "enabled": true
   }
 ]
