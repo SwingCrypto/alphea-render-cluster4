@@ -1948,5 +1948,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhY2hpbi5peWVyMzBAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiI2MGYxMDI4MC05MzBjLTQwYmMtYmZhMi1iZjI5YWUxNmQxZjciLCJhdXRoX3RpbWUiOjE3OTExMzM5OTYsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiOGU4NTI3YjQtZTkxZi00ZDkzLWE5ZWItZTkwN2RhNDY5Y2Q4IiwiZXhwIjoxNzkxMTM3NTk2LCJpYXQiOjE3OTExMzM5OTZ9.zJMS9-0eetZ-ZpLJdCMX2fIlVZ3zMZx7BEKMw8WhS_U",
     "refreshToken": "BxhsnNOdixfMLL4kiEfjdRTuF5WiYRk0bnzhpqr8hLY",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 196",
+    "email": "jacobmenon@freediamond.in",
+    "deviceId": "768cbf6d66922787",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImphY29ibWVub25AZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiJjODYzYjNkMS00YmQ3LTQ0NTItOTdhNy1jNzFmMzM3ZmQ5YjMiLCJhdXRoX3RpbWUiOjE3OTExMzQwMjEsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiNThjYjBhNmUtNDE3NS00ZjJkLTg3MWEtMDgzN2JlMTEyNWQ5IiwiZXhwIjoxNzkxMTM3NjIxLCJpYXQiOjE3OTExMzQwMjF9.Dzt9L9Ghw5RsmOPU0ZTl7DqLxmRWgSsajO0Ohi8sq8M",
+    "refreshToken": "_jjiJ19Q74zr_o_xBxr14G6EQWf8RUp-qDyP9vOziu4",
+    "enabled": true
   }
 ]
