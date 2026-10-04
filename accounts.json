@@ -1438,5 +1438,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFiaWdhaWw4NjdAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiI1NWI3MmY4Ni0zNWVmLTRhYmMtYjAzYi1iNGNhNzJiYzU4NjAiLCJhdXRoX3RpbWUiOjE3OTExMzIzNzQsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiOWUwNjA5NzktNTc4Ni00Y2UyLTlhOTUtNGI0MDgzZDAyZmU5IiwiZXhwIjoxNzkxMTM1OTc0LCJpYXQiOjE3OTExMzIzNzR9.mKji-F0_JnhvLona4hSBM9AXbAYemuwcFwIKaT23MoY",
     "refreshToken": "fJTqBu_0D9k0rU_epCa0B75sby7WXNA1DCUylN2ttp8",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 145",
+    "email": "harper216@freediamond.in",
+    "deviceId": "d985cbb51d014a51",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImhhcnBlcjIxNkBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjJlMDg5YmQwLWI5NTUtNDM4Zi05YzBlLWUxNTE3YjI5YzM3MiIsImF1dGhfdGltZSI6MTc5MTEzMjM5NywiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiIyYmIzYmE2Ni0yNDRkLTQ4ZGItOGU4Zi0xMzUyYTdmNzNiNWMiLCJleHAiOjE3OTExMzU5OTcsImlhdCI6MTc5MTEzMjM5N30.-K_0x4lrDzSj7NuAai-CfF6fSBqJAthgH0_-qMNvUno",
+    "refreshToken": "bKzgue-BCLqVjN7CFpVaNPT9S_cSeRnjcE0DnOMKLLM",
+    "enabled": true
   }
 ]
