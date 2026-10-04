@@ -1208,5 +1208,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRhbnZpYmFrZXI3NEBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjEzMzMyNWMwLTg0ZjYtNDBlYS04MGQzLTYxM2VjYzcxMDA0OCIsImF1dGhfdGltZSI6MTc5MTEzMTgxMiwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI2ODUwNjkzOC02YTY2LTQ4MzgtYjA1Ni1mODg3NGNiNWQwN2EiLCJleHAiOjE3OTExMzU0MTIsImlhdCI6MTc5MTEzMTgxMn0.nyj06TenN7QOdrmyAim8J9ZZM76bL2EFluTOSDWiLp0",
     "refreshToken": "gej03L8V9XcY4DZ0SDs-TPCxLP4mP6JFadSpVMuaWiU",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 122",
+    "email": "karan1996@freediamond.in",
+    "deviceId": "f90b65d8ada70d3f",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthcmFuMTk5NkBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjMzNjQ2Mjg0LTgwM2EtNDI0YS05MTExLTQyOWRmYjI2MzczMCIsImF1dGhfdGltZSI6MTc5MTEzMTgzNSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiJlOWY0ZTk5YS1mMTNiLTQwYmItOWQyZi1lN2U4YTBmMjI4NDciLCJleHAiOjE3OTExMzU0MzUsImlhdCI6MTc5MTEzMTgzNX0.ei5dGcCR93H1NGzo6aLQr6OYBczCeQczN3nyufZpu1E",
+    "refreshToken": "aqTVbEZscXAtWoeZHGdbthg_m2hD7g9vgGXJVS-ZZWU",
+    "enabled": true
   }
 ]
