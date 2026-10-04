@@ -1968,5 +1968,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5vbGFuMjAwMkBmcmVlZGlhbW9uZC5pbiIsInNpZCI6ImZkM2QxMjVkLTIxY2QtNDgyOS1hNTJkLTBhNGNlMzA1ZGVlZiIsImF1dGhfdGltZSI6MTc5MTEzNDA0NCwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI3NTRkMzQyZi04Y2RmLTQ2MDYtODg3NS00M2Q3NjcwMDRiOTAiLCJleHAiOjE3OTExMzc2NDQsImlhdCI6MTc5MTEzNDA0NH0.4trIalGm_WxSscXrZ0FdqXab60a7QrmU97IQHg_9XNw",
     "refreshToken": "4c6Tv5H4CXs80UZqq81-YmPrK8bSKG9mnmm9ZH6EqEc",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 198",
+    "email": "alyssa766@freediamond.in",
+    "deviceId": "8aee957255fcdcca",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFseXNzYTc2NkBmcmVlZGlhbW9uZC5pbiIsInNpZCI6ImM1ZjcyODY1LTg3MzktNDVhMi04NTNkLTVhYjBkOGU4MjQ3MSIsImF1dGhfdGltZSI6MTc5MTEzNDA2NSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiIzMWJiM2U5YS0zN2FiLTRkYTEtODdlYS1iNmE0NGZlOGY1NWQiLCJleHAiOjE3OTExMzc2NjUsImlhdCI6MTc5MTEzNDA2NX0.UrtsxRe_jUQ9pSQ0oLxp90gsCCwhWVYymzofi_Ul30o",
+    "refreshToken": "mlamMh5ryj0UYRuY4Oq4PnZvAJNRNuGuQyGqVwHuyvE",
+    "enabled": true
   }
 ]
