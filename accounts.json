@@ -1178,5 +1178,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdyYWNlLndpbGxpYW1zMjAwMUBmcmVlZGlhbW9uZC5pbiIsInNpZCI6ImZkNGFmZjY3LTY4MjItNDNlMC04Y2NmLTAyMDk2OTZhZjY3YyIsImF1dGhfdGltZSI6MTc5MTEzMTczNywiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI4ZjYyYzA1Yy03ZDE2LTRmODgtOGI4NC0xYWRkMThmZjY5NzkiLCJleHAiOjE3OTExMzUzMzcsImlhdCI6MTc5MTEzMTczN30.-Wek1Q8PHyzXO0qjuCNds55ajyiCJRvTjX6X4vCUo08",
     "refreshToken": "HXzBDi-t-yteXT0tgKiIDa--5XOz0mrEBODkNJkUrAw",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 119",
+    "email": "oliver_robinson379@freediamond.in",
+    "deviceId": "fb1009eb1d29801a",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im9saXZlcl9yb2JpbnNvbjM3OUBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjIzYjg4MTNmLTNmMmEtNDBhOC05MmIyLTkxMDU3OGQ3NjMyNSIsImF1dGhfdGltZSI6MTc5MTEzMTc2MiwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI2OWNhNTRhMS02ZDU5LTQyOTMtYjA5MC01NDlmNTU5MmZmNGIiLCJleHAiOjE3OTExMzUzNjIsImlhdCI6MTc5MTEzMTc2Mn0.vzCJycYZwPwyr9MG-7lVAyJs-L9Q9tRb5zD_bgR2eGk",
+    "refreshToken": "oUWm3s6cPmc1t6yXbnyr_s0DxYHZf3rF3-NizmTj8k0",
+    "enabled": true
   }
 ]
