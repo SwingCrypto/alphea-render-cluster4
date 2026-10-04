@@ -1188,5 +1188,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im9saXZlcl9yb2JpbnNvbjM3OUBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjIzYjg4MTNmLTNmMmEtNDBhOC05MmIyLTkxMDU3OGQ3NjMyNSIsImF1dGhfdGltZSI6MTc5MTEzMTc2MiwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI2OWNhNTRhMS02ZDU5LTQyOTMtYjA5MC01NDlmNTU5MmZmNGIiLCJleHAiOjE3OTExMzUzNjIsImlhdCI6MTc5MTEzMTc2Mn0.vzCJycYZwPwyr9MG-7lVAyJs-L9Q9tRb5zD_bgR2eGk",
     "refreshToken": "oUWm3s6cPmc1t6yXbnyr_s0DxYHZf3rF3-NizmTj8k0",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 120",
+    "email": "e.malhotra75@freediamond.in",
+    "deviceId": "ec905fafeaf2988a",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImUubWFsaG90cmE3NUBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjczYjVlYzYzLTBkZjUtNGIzNi05MjhkLWNjMzNkZjAwY2Y1NCIsImF1dGhfdGltZSI6MTc5MTEzMTc4NSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiJmZDlhNTc4Zi0wYzMzLTRiY2QtYTRmZS04OGY1NzhkN2Q5MWQiLCJleHAiOjE3OTExMzUzODUsImlhdCI6MTc5MTEzMTc4NX0.1jljJbDljgIcQupWfqN8gVwCjRGlLvMJKIZpEmXxi1g",
+    "refreshToken": "kkHJsexGbi1P6HXd9xUnyvTUnYRKaaBRNHdGc0XmqrY",
+    "enabled": true
   }
 ]
