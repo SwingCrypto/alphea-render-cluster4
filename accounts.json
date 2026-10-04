@@ -1248,5 +1248,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNjYXJsZXR0Lmpvc2hpQGZyZWVkaWFtb25kLmluIiwic2lkIjoiMWMxZWFhODAtOTc3Zi00MjQ2LWI1M2MtN2ViOTFkNjRiYjEzIiwiYXV0aF90aW1lIjoxNzkxMTMxOTA2LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjhlM2NlZWRhLTUxMTktNGE3Mi05YTUyLTgzNjBjMWUxMTJmZCIsImV4cCI6MTc5MTEzNTUwNiwiaWF0IjoxNzkxMTMxOTA2fQ.88XL9mJ9qUC4I1GXBfI_2x09uGVv_2TYcQCAGuCqH48",
     "refreshToken": "zf3qcA_glwWjpG0inOdDh-BJ1v4swT5QhD74DXFH5w4",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 126",
+    "email": "kabir_hall813@freediamond.in",
+    "deviceId": "455c529b7633860b",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthYmlyX2hhbGw4MTNAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiIxYzY0NjZlMS1lNDYxLTQxZTQtOTgxNS0zNTVlZTBlNzQwZDgiLCJhdXRoX3RpbWUiOjE3OTExMzE5MzUsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiMzYyMmI0ZTYtNDEzNy00YTc5LWE4M2EtZDQzZjJkODhiZTE1IiwiZXhwIjoxNzkxMTM1NTM1LCJpYXQiOjE3OTExMzE5MzV9.iBYrNm8xQ3u58Ct_3odT-kqaVkWtTnZvB2Pzo8YivHI",
+    "refreshToken": "oZb1A6XQJeALCkzS9Bg7bXOMAIkgnlqZIwsEePW3O9I",
+    "enabled": true
   }
 ]
