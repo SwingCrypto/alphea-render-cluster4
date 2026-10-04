@@ -1428,5 +1428,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImxpbGxpYW4udmVybWE5OUBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjVkNmRkZjhkLTc2NzQtNDM0MC04NDJiLTk4YTM1Nzk3YTI4MSIsImF1dGhfdGltZSI6MTc5MTEzMjM1MSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiJmZGQxN2M5NC0yMDcyLTQ0NWUtYmNkYS0yZmM2YTU4YjRlNjUiLCJleHAiOjE3OTExMzU5NTEsImlhdCI6MTc5MTEzMjM1MX0.hyYmV5gj7kkNlbqYlWKev7I74YpbWz-7tB-v1_d3MhQ",
     "refreshToken": "qEJUa2Jrv-KJSTtmFMlHPoSjHrPaHVsmXAhfc6pGUQE",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 144",
+    "email": "abigail867@freediamond.in",
+    "deviceId": "9515f7204e56cfcb",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFiaWdhaWw4NjdAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiI1NWI3MmY4Ni0zNWVmLTRhYmMtYjAzYi1iNGNhNzJiYzU4NjAiLCJhdXRoX3RpbWUiOjE3OTExMzIzNzQsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiOWUwNjA5NzktNTc4Ni00Y2UyLTlhOTUtNGI0MDgzZDAyZmU5IiwiZXhwIjoxNzkxMTM1OTc0LCJpYXQiOjE3OTExMzIzNzR9.mKji-F0_JnhvLona4hSBM9AXbAYemuwcFwIKaT23MoY",
+    "refreshToken": "fJTqBu_0D9k0rU_epCa0B75sby7WXNA1DCUylN2ttp8",
+    "enabled": true
   }
 ]
