@@ -1588,5 +1588,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imt1bmFsX2pvbmVzQGZyZWVkaWFtb25kLmluIiwic2lkIjoiZGVhZDA1YzctOTE1Yi00OWQ1LTg5NzEtMjQwZGQ2YjY0NTc0IiwiYXV0aF90aW1lIjoxNzkxMTMyNzIzLCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjMzYTZhZjk2LWIxYWUtNDkxYi1iZDU1LTNjYzVmMWIzZWZkZiIsImV4cCI6MTc5MTEzNjMyMywiaWF0IjoxNzkxMTMyNzIzfQ.ToXXOGbDfl1dSgU2cvWvUInKk7emyl_cjpBcewJZWd0",
     "refreshToken": "BIEPfDBBdTSZYluNVvZZKfIGl-wcWQDymxseE15ywoE",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 160",
+    "email": "diya2000@freediamond.in",
+    "deviceId": "0fe3ed008e861358",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRpeWEyMDAwQGZyZWVkaWFtb25kLmluIiwic2lkIjoiMWJhZTc1MzgtM2NmMS00ODQzLWIxNDMtYjgyYTQ1NzUyYzUzIiwiYXV0aF90aW1lIjoxNzkxMTMyNzQ3LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjA4ZDRjNzc3LTU0ZjMtNDAxZi05ZmEwLWFiYTM4MTI1ZDA1MiIsImV4cCI6MTc5MTEzNjM0NywiaWF0IjoxNzkxMTMyNzQ3fQ.dkzA_d5oAriCNb2_qP5EdKfqM2GVkl79BQRNVggrNfI",
+    "refreshToken": "oSVmQTEuLAuWzJvwusVNU-YahOsOF0ikSCOz1neFYUM",
+    "enabled": true
   }
 ]
