@@ -345,8 +345,8 @@
     "deviceId": "5ce1e4a7c84c13f4",
     "proxy": null,
     "location": "Direct Render VPS",
-    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFhcm9uLndpbHNvbjQ2QGZyZWVkaWFtb25kLmluIiwic2lkIjoiMWQ3MWYyZTUtZDdkNy00ZDM0LTk1ZTktM2RjZTdjZDc0MDZmIiwiYXV0aF90aW1lIjoxNzkxMDM4NjE5LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjlmMzMzZjU4LWIzM2QtNGI4MC1iYTUxLTFjNTVjNWI1MzgzZSIsImV4cCI6MTc5MTEzMzA3NywiaWF0IjoxNzkxMTI5NDc3fQ.dTrynAD071SKXD7IpIUKqOTBgjBIvHuoWejEJl438E4",
-    "refreshToken": "-qFSpg7_iWQTuCruaga0mrGFaWra9ut3PQtZroQGxyY",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFhcm9uLndpbHNvbjQ2QGZyZWVkaWFtb25kLmluIiwic2lkIjoiMWQ3MWYyZTUtZDdkNy00ZDM0LTk1ZTktM2RjZTdjZDc0MDZmIiwiYXV0aF90aW1lIjoxNzkxMDM4NjE5LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjlmMzMzZjU4LWIzM2QtNGI4MC1iYTUxLTFjNTVjNWI1MzgzZSIsImV4cCI6MTc5MTEzNjU2OCwiaWF0IjoxNzkxMTMyOTY4fQ.Lf_Mvs2g3OXcQjV9fFPUFdim_JV6EquUhDZq-4JIvTg",
+    "refreshToken": "cY6CKkG-jKApIKpGm6Z1N6q_NNFbCrbCNfYpB7bH28Y",
     "enabled": true
   },
   {
@@ -1677,6 +1677,16 @@
     "location": "Direct Render VPS",
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImlzYWJlbGxhOThAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiIzOWU1MmRjYy1kOTNjLTRlYzMtOTc3OC1lYmRhZjg4YTk4MmYiLCJhdXRoX3RpbWUiOjE3OTExMzI5NDIsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiZWM2MmMzYWMtNzQyOS00NDQ0LThhOGUtYTM0MGY4NTY5NWVmIiwiZXhwIjoxNzkxMTM2NTQyLCJpYXQiOjE3OTExMzI5NDJ9.WQIfitbkQGM2Nb7QI--U5LERm0Yvhxqq7hWZnYw5MgI",
     "refreshToken": "YAWxrgNhs4Ah8aIHk1DRVIcsJVJSm-jEeg-LNeNh1pk",
+    "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 169",
+    "email": "sofia.singh1999@freediamond.in",
+    "deviceId": "fcf878f00097c365",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNvZmlhLnNpbmdoMTk5OUBmcmVlZGlhbW9uZC5pbiIsInNpZCI6ImY4ZGNhZTcxLTg2MzAtNGQyNC1iOWY5LWE2NTE3YWU3MDhlNiIsImF1dGhfdGltZSI6MTc5MTEzMjk2NSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI4YTNmZTFkNi1hN2JjLTQ0M2EtYmQ2Ni0wYzRiNzU4MzQ4MWMiLCJleHAiOjE3OTExMzY1NjUsImlhdCI6MTc5MTEzMjk2NX0.5NXLouwPQGEGbbOswggAemPeGIeDLisPTcoSP-GF7JM",
+    "refreshToken": "u4MnbBWzQeO4iVUTdFmVUOSgjK1vldSIP7puRC2Hq1E",
     "enabled": true
   }
 ]
