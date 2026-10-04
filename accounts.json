@@ -1308,5 +1308,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRob21hczg0NkBmcmVlZGlhbW9uZC5pbiIsInNpZCI6ImU4MTAxYmNmLWI2OTAtNDYyZC05OWQ4LWEyMWZjYmNiYmMxMyIsImF1dGhfdGltZSI6MTc5MTEzMjA2MSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI5ZGY3NzM5Yi1lZjVlLTRhMWMtODgyNS1mYjYyOWM0MjdlYjkiLCJleHAiOjE3OTExMzU2NjEsImlhdCI6MTc5MTEzMjA2MX0.Bmx8nqJaFMnVGWUrnB5yT3d_9eyH2zL0afO1BavLbT4",
     "refreshToken": "yER5fQS-pJbqwWU_RlVo-kZqhLQGDLpXD506rz6Auws",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 132",
+    "email": "masonwhite94@freediamond.in",
+    "deviceId": "2aec2da898ff7526",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hc29ud2hpdGU5NEBmcmVlZGlhbW9uZC5pbiIsInNpZCI6ImNhMTQwOGZhLTQyODktNDI4MS1hOWI2LWIyZjRlOTI2YmNlZiIsImF1dGhfdGltZSI6MTc5MTEzMjA4NSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiJkODg5YTZjNC1iMTE2LTQ2NTYtOWM5OC1jYTU1OTY3YzAyZmEiLCJleHAiOjE3OTExMzU2ODUsImlhdCI6MTc5MTEzMjA4NX0.mVzhblIe36d7U6RJYjsWJY9Oh-a1_OBWYwftK9VMPMk",
+    "refreshToken": "V8qsGsg3KTJ0bzfTxntic45Y4njrQM72ax-wl2jZji8",
+    "enabled": true
   }
 ]
