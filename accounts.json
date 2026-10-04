@@ -1478,5 +1478,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1pbGEyNTJAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiI4YTczMTA4Yy1kNDczLTRkM2EtOGQzNi1mOWU2ZWE4ZmM0MmEiLCJhdXRoX3RpbWUiOjE3OTExMzI0NjgsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiMjczMDE4M2UtZjhhMS00MWYwLTlhMDQtYTc3NmI4NjVlYzkwIiwiZXhwIjoxNzkxMTM2MDY4LCJpYXQiOjE3OTExMzI0Njh9.MPfskUOafBWHQ3L7o13C35wPTG9A33c-QnwOQan21t0",
     "refreshToken": "sKWaWLOaBu19PitRX-3N4FecmnkO3KLVXNb2NhNjhYM",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 149",
+    "email": "audrey_nair98@freediamond.in",
+    "deviceId": "875ae8710b62a84d",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImF1ZHJleV9uYWlyOThAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiJhMzQ5ZjMxZC04ODM0LTQwZjEtYTAyMi1kYzEzNDIwZDBhMTYiLCJhdXRoX3RpbWUiOjE3OTExMzI0OTEsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiZGEyYjljM2UtZTZhOC00YTY5LWJlMDgtZjk3ZGQwMTUyMmNjIiwiZXhwIjoxNzkxMTM2MDkxLCJpYXQiOjE3OTExMzI0OTF9.D5DjfTTUu5a345t1Ypz5UsVa7kBM1LvkvoDMMbEbJ60",
+    "refreshToken": "rImb9BmwDm1_GH1kcFomndv9IoS6m90LZN2ow97-wXQ",
+    "enabled": true
   }
 ]
