@@ -1048,5 +1048,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5vYWguc2lsdmFAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiI5ZDVjMWFlMC03ZDVjLTQxODYtYThkNy1kNDE1YjAzNDAyZTYiLCJhdXRoX3RpbWUiOjE3OTExMzE0MTYsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiYjQ2Zjg4MDgtYWQ2ZS00OTRkLWI0MWUtMzhmYjhmZWQ5NDI4IiwiZXhwIjoxNzkxMTM1MDE2LCJpYXQiOjE3OTExMzE0MTZ9.C93d0DKIPZv5gIO3qM7_YN-HyxcVqUJQemBssn1DlXw",
     "refreshToken": "sz4SLIMLM3stZ1M-hWbN9SS0IJvy60VOYJVoQfAA53g",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 106",
+    "email": "s.chauhan250@freediamond.in",
+    "deviceId": "8a5a2a9941af6ced",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InMuY2hhdWhhbjI1MEBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjNhODcxMWYwLTRjZWItNGI2Mi1iMzY2LTE5ODhmZDZlNDYxZSIsImF1dGhfdGltZSI6MTc5MTEzMTQzOSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiIwYzNjZTdkMS01ZGMyLTQ1ZDctYTgwOC03ODlkN2U3MmY3ZmIiLCJleHAiOjE3OTExMzUwMzksImlhdCI6MTc5MTEzMTQzOX0.AFumQckz8cWq41Gk0IvTBYJ15_cndLO7HR9b4eO_FVU",
+    "refreshToken": "UY-wdw9trnm30aFfLK-SmlifGSdTwxp9TdHzPZTHg14",
+    "enabled": true
   }
 ]
