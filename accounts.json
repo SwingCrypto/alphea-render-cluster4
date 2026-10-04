@@ -1898,5 +1898,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imphdmllcl9zaWx2YTE2QGZyZWVkaWFtb25kLmluIiwic2lkIjoiOWY5ZDIwNzYtOTk1Zi00NDg0LThlZDAtMzc3ZDdhNWEzZDQ1IiwiYXV0aF90aW1lIjoxNzkxMTMzNjM1LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjdhMjM5ODE5LTEzZDgtNDk1Zi04NjA2LTI4ZDA2ZDNlY2U3YiIsImV4cCI6MTc5MTEzNzIzNSwiaWF0IjoxNzkxMTMzNjM1fQ.AAqhqqrWY1sMBemd4W438yxSBF4GYhmE5TxO_ymGhps",
     "refreshToken": "dfsXEWG6P5OX7hCNTSK89HgPKTGIKpaVXTQLfwZPfvA",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 191",
+    "email": "riya.reyes68@freediamond.in",
+    "deviceId": "8f53ade444f2dcf2",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpeWEucmV5ZXM2OEBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjA2NGNiYmQ3LWRiMGItNDM2Ni1hZTZjLWNkMDliYjQ4Y2ZjNyIsImF1dGhfdGltZSI6MTc5MTEzMzY2MiwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiJkMzFlYTkxYy00ZGQ1LTRhMzktOTA1NS1hMzkzMmEyMDEzYTUiLCJleHAiOjE3OTExMzcyNjIsImlhdCI6MTc5MTEzMzY2Mn0.CqyjeUJOxj_oKcak5hvyT_V1znfAdwCl_WtpLD1gjWQ",
+    "refreshToken": "ft1koF6Daqwt9dHfnNN8u8NFwot1FN5cxwA3QT6zUMg",
+    "enabled": true
   }
 ]
