@@ -1598,5 +1598,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRpeWEyMDAwQGZyZWVkaWFtb25kLmluIiwic2lkIjoiMWJhZTc1MzgtM2NmMS00ODQzLWIxNDMtYjgyYTQ1NzUyYzUzIiwiYXV0aF90aW1lIjoxNzkxMTMyNzQ3LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjA4ZDRjNzc3LTU0ZjMtNDAxZi05ZmEwLWFiYTM4MTI1ZDA1MiIsImV4cCI6MTc5MTEzNjM0NywiaWF0IjoxNzkxMTMyNzQ3fQ.dkzA_d5oAriCNb2_qP5EdKfqM2GVkl79BQRNVggrNfI",
     "refreshToken": "oSVmQTEuLAuWzJvwusVNU-YahOsOF0ikSCOz1neFYUM",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 161",
+    "email": "martina.chatterjee@freediamond.in",
+    "deviceId": "c5e0a0f47793c87a",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hcnRpbmEuY2hhdHRlcmplZUBmcmVlZGlhbW9uZC5pbiIsInNpZCI6ImUwNWRlZTJjLTZhMjUtNGVjNC04ZmM2LTVlMzg2ZTRjZWM2YSIsImF1dGhfdGltZSI6MTc5MTEzMjc3MSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiIyNjQ1OGNmNy1mMmUyLTRhZGYtODg0Ny1iYWMxMDIxZWEzODkiLCJleHAiOjE3OTExMzYzNzEsImlhdCI6MTc5MTEzMjc3MX0.JpZtnQETpK9qtUNRl3E0FTShSWO_yO_iDbtlvVzSbb0",
+    "refreshToken": "eZzmV-bOzveC_3eY0-cCMreXmEqRBXAiK22bat5xmLw",
+    "enabled": true
   }
 ]
