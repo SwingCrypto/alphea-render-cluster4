@@ -1488,5 +1488,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImF1ZHJleV9uYWlyOThAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiJhMzQ5ZjMxZC04ODM0LTQwZjEtYTAyMi1kYzEzNDIwZDBhMTYiLCJhdXRoX3RpbWUiOjE3OTExMzI0OTEsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiZGEyYjljM2UtZTZhOC00YTY5LWJlMDgtZjk3ZGQwMTUyMmNjIiwiZXhwIjoxNzkxMTM2MDkxLCJpYXQiOjE3OTExMzI0OTF9.D5DjfTTUu5a345t1Ypz5UsVa7kBM1LvkvoDMMbEbJ60",
     "refreshToken": "rImb9BmwDm1_GH1kcFomndv9IoS6m90LZN2ow97-wXQ",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 150",
+    "email": "rashmi_vargas817@freediamond.in",
+    "deviceId": "84da051c63ffcae7",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJhc2htaV92YXJnYXM4MTdAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiJlMzc1NDg4NS1hOWJhLTQwNDQtOGNkMS05YzMxMzA1MzRmYWEiLCJhdXRoX3RpbWUiOjE3OTExMzI1MTQsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiY2MxMmY3YWYtZWQ4YS00Y2YyLWE1NzctOGFhOWQzNzViOTI3IiwiZXhwIjoxNzkxMTM2MTE0LCJpYXQiOjE3OTExMzI1MTR9.6h3FgzrFfJtGR45RZANPJf_d4LwnK_61Y7mZ_F0AsC4",
+    "refreshToken": "9-9KhDtetlN1n5u3jR2RY7wc3zPCeo0-nKGnmbM5WzE",
+    "enabled": true
   }
 ]
