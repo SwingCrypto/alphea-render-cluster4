@@ -495,8 +495,8 @@
     "deviceId": "a6b335eb395f3049",
     "proxy": null,
     "location": "Direct Render VPS",
-    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFsZXhhbmRlcjM4MkBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjE1MDIwMjhiLTQ3ODgtNDVkYS04OGVmLTMzNTk3MDFmMjJiOSIsImF1dGhfdGltZSI6MTc5MTAzMTg0MCwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiIzNDY3OTFlYS1iZDdlLTRkOTktYTQxNS1kNTVjODM4ODQyMjAiLCJleHAiOjE3OTExMzMzMTcsImlhdCI6MTc5MTEyOTcxN30.A9YQXrvr_QfC0lj6uSceNqjAN_QrwV7CgGtN1P0NUas",
-    "refreshToken": "n0E8DK4p_HbdbQwyNHL3iS6y_OJMO-Tzwfj66XkctC0",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFsZXhhbmRlcjM4MkBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjE1MDIwMjhiLTQ3ODgtNDVkYS04OGVmLTMzNTk3MDFmMjJiOSIsImF1dGhfdGltZSI6MTc5MTAzMTg0MCwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiIzNDY3OTFlYS1iZDdlLTRkOTktYTQxNS1kNTVjODM4ODQyMjAiLCJleHAiOjE3OTExMzY4MDksImlhdCI6MTc5MTEzMzIwOX0.VywVQN8MdLgylmN0rvh0wqsoMlV4BZyLMpPoaRY0qVI",
+    "refreshToken": "i3mWZdp6KciaecagP4grnNKg0np6HshD5OQvxEdbnq8",
     "enabled": true
   },
   {
@@ -1777,6 +1777,16 @@
     "location": "Direct Render VPS",
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hcnRpbjIwMDRAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiIxOWMxYzFmYi0xYjBkLTQwYTctODEyYy01ZjgzYjFlNDliY2IiLCJhdXRoX3RpbWUiOjE3OTExMzMxODEsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiNDVhYzE0NjMtY2Y2OS00YWU3LWI1OWMtMDgxNGZhNTdmMzkwIiwiZXhwIjoxNzkxMTM2NzgxLCJpYXQiOjE3OTExMzMxODF9.z9AueJK-Q_N9tSTBRaxmBLAPLG77-oirgyb2_xreSdI",
     "refreshToken": "PHVtoa1yocs_6UUQ572DHulVLSP7qpp1zKfCAPyyJ0A",
+    "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 179",
+    "email": "mason.lodha@freediamond.in",
+    "deviceId": "f8901d594ddca134",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hc29uLmxvZGhhQGZyZWVkaWFtb25kLmluIiwic2lkIjoiNWRmY2E4NjItYjQ3ZC00NmI1LWE0MmUtNzE0N2EyNDg1ZDNhIiwiYXV0aF90aW1lIjoxNzkxMTMzMjA2LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjAzOTJhN2IzLWJhMDYtNDY5Yi04NzZkLTQ2NDZiOTQ4ZThiNyIsImV4cCI6MTc5MTEzNjgwNiwiaWF0IjoxNzkxMTMzMjA2fQ.xlrfuYz_ZNc_hihNBYXgt2J_5lOCKMml5jOHxa3h5CE",
+    "refreshToken": "KMS0TLxjXv-dAtj88gm2yVSWmOGUU2X2WxJURAg5sKQ",
     "enabled": true
   }
 ]
