@@ -1538,5 +1538,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImkuYmhhcmR3YWoyMDAyQGZyZWVkaWFtb25kLmluIiwic2lkIjoiOWZmM2YzNTktZmZmYy00ZDVmLTg3ZjAtNWQ1Y2U5ZTVhNDcwIiwiYXV0aF90aW1lIjoxNzkxMTMyNjA1LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6ImE4MjNjN2UwLTBhNTctNGE4NC1iNmFlLTdjMmNlMTA4ZDM3MyIsImV4cCI6MTc5MTEzNjIwNSwiaWF0IjoxNzkxMTMyNjA1fQ.R1IaBfkDpkSYZC2PpVzy185IgAA1skEizVn3DOUH53g",
     "refreshToken": "kpJwmSmD2e4nyb3MDOmN4yOUfngBQecteW7NylI83oY",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 155",
+    "email": "d.das1992@freediamond.in",
+    "deviceId": "5f10281c12094b34",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImQuZGFzMTk5MkBmcmVlZGlhbW9uZC5pbiIsInNpZCI6Ijg4MWFmNzBlLTUzYjItNGRiNC1hMDdkLWYxOWNlMzQxYTNlYSIsImF1dGhfdGltZSI6MTc5MTEzMjYyOCwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI4YjVjZjk3Yi02NjkyLTQ3MTEtOGE5Yy0xNjliNDg2ODQ2NjYiLCJleHAiOjE3OTExMzYyMjgsImlhdCI6MTc5MTEzMjYyOH0.a52Uav_fpQsl9jZcWcrnnc3k7u_rY_yhkvvEhYLtJT8",
+    "refreshToken": "dWTbHP5Afo0mjx_Rdtunn5y1EYB8t3fory1HqqBXDNg",
+    "enabled": true
   }
 ]
