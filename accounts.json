@@ -1168,5 +1168,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImwubWlzaHJhNjFAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiJjZThiMDQ0Ny1kZGUyLTRjZTEtYWNmMi0zZjQ0YThjYmQ5ZjIiLCJhdXRoX3RpbWUiOjE3OTExMzE3MTUsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiNWRjYjBmZGUtYTYyNS00ZWM1LTkyZDAtMTg5Mzg3YTNhMDY1IiwiZXhwIjoxNzkxMTM1MzE1LCJpYXQiOjE3OTExMzE3MTV9.RcI6Fevg3rDLWjxtu2SSPhTspqEpjHkyFXll8aHt85A",
     "refreshToken": "TW1qrm3XXtl-z6RGu1irD6MmJ2mf_qEK8MH2iIW-gcQ",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 118",
+    "email": "grace.williams2001@freediamond.in",
+    "deviceId": "e3fdfa13313c74c5",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdyYWNlLndpbGxpYW1zMjAwMUBmcmVlZGlhbW9uZC5pbiIsInNpZCI6ImZkNGFmZjY3LTY4MjItNDNlMC04Y2NmLTAyMDk2OTZhZjY3YyIsImF1dGhfdGltZSI6MTc5MTEzMTczNywiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI4ZjYyYzA1Yy03ZDE2LTRmODgtOGI4NC0xYWRkMThmZjY5NzkiLCJleHAiOjE3OTExMzUzMzcsImlhdCI6MTc5MTEzMTczN30.-Wek1Q8PHyzXO0qjuCNds55ajyiCJRvTjX6X4vCUo08",
+    "refreshToken": "HXzBDi-t-yteXT0tgKiIDa--5XOz0mrEBODkNJkUrAw",
+    "enabled": true
   }
 ]
