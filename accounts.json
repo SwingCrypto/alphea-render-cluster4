@@ -1138,5 +1138,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImphY2s5M0BmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjQxYTUzMThlLTgwZWMtNDI4Ni1hN2E2LTdhNTRkNWFiYzI3NCIsImF1dGhfdGltZSI6MTc5MTEzMTY0OCwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI0MWNiOTkwOC1mZjIzLTQwNzMtYmU2ZS05ODJlN2JlNzBhMzgiLCJleHAiOjE3OTExMzUyNDgsImlhdCI6MTc5MTEzMTY0OH0.Gr3RFGclegk9leWgLrjEkNpWORqq3c4V1G7w1nEFbpY",
     "refreshToken": "4T9kiXse739ZJOlVBgJzPlGg53Y4XS3xtXgfllE0BA4",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 115",
+    "email": "amit_khanna99@freediamond.in",
+    "deviceId": "6e37a4e8c927b819",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFtaXRfa2hhbm5hOTlAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiJhZGZlNDgzZS0xM2FhLTQ1Y2QtYjI0MS01NmQwZjkwZWRhNzAiLCJhdXRoX3RpbWUiOjE3OTExMzE2NjcsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiMGZhMDNmOTktZGY0Ni00MTZmLWEwMzQtZjVlMjU4NmMxZDA3IiwiZXhwIjoxNzkxMTM1MjY3LCJpYXQiOjE3OTExMzE2Njd9.mgkkCYhTHXWz0vLrQhf7oSI1OMPlf9hcY4fqWwXied0",
+    "refreshToken": "iYUiH72RHgY8uTxnhiCJCAsNThBpyuiuitQQUL7eM8c",
+    "enabled": true
   }
 ]
