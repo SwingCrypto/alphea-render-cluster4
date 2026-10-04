@@ -1528,5 +1528,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRhbmllbF9qYWNrc29uQGZyZWVkaWFtb25kLmluIiwic2lkIjoiMzRhODdhOWMtMmU4Mi00YWY3LWFmMmMtYjI1ZTFkNDAyOTUwIiwiYXV0aF90aW1lIjoxNzkxMTMyNTgyLCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjUxN2FmY2FmLWI0OWYtNGY4OS1hOGZhLWI4YmU5YzQzZjA2NCIsImV4cCI6MTc5MTEzNjE4MiwiaWF0IjoxNzkxMTMyNTgyfQ.eM7TzCR1EpyJbcxhY0Rj7bj8aBTue-Jk4brZf-hC6gc",
     "refreshToken": "UOsMx7HAHYwYeng6J9DI4PdY34N9mtGXyYfzt8jvXEM",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 154",
+    "email": "i.bhardwaj2002@freediamond.in",
+    "deviceId": "45dad9cd55d5052b",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImkuYmhhcmR3YWoyMDAyQGZyZWVkaWFtb25kLmluIiwic2lkIjoiOWZmM2YzNTktZmZmYy00ZDVmLTg3ZjAtNWQ1Y2U5ZTVhNDcwIiwiYXV0aF90aW1lIjoxNzkxMTMyNjA1LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6ImE4MjNjN2UwLTBhNTctNGE4NC1iNmFlLTdjMmNlMTA4ZDM3MyIsImV4cCI6MTc5MTEzNjIwNSwiaWF0IjoxNzkxMTMyNjA1fQ.R1IaBfkDpkSYZC2PpVzy185IgAA1skEizVn3DOUH53g",
+    "refreshToken": "kpJwmSmD2e4nyb3MDOmN4yOUfngBQecteW7NylI83oY",
+    "enabled": true
   }
 ]
