@@ -1008,5 +1008,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1pZ3VlbHR1cm5lcjkyQGZyZWVkaWFtb25kLmluIiwic2lkIjoiM2YzYzg2NTctZmQxMi00ZTU0LTgzMzAtNjIxMzIyOWRmZTEzIiwiYXV0aF90aW1lIjoxNzkxMTA1Mjk2LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjhlZTJlOTFlLTBiYjYtNDVkMC1iZmZiLTQ2ZDI3ZDUzZjVmNSIsImV4cCI6MTc5MTEzMzQ0NywiaWF0IjoxNzkxMTI5ODQ3fQ.zd05qFtfbgApZgcMAbpgD26KhcC4NP51FEUeCDU_1hw",
     "refreshToken": "VJ4NqfTDJf5V7sGScm6js1fvUbaYIJ_Rfhrf7H5iHFA",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 102",
+    "email": "a.hill2004@freediamond.in",
+    "deviceId": "bd695e0636152044",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImEuaGlsbDIwMDRAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiIzNjVhMzIxMC04NjA0LTQwMzUtYjgxNC02MmU2MzJjNDI4MzQiLCJhdXRoX3RpbWUiOjE3OTExMzEzMzcsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiNDVkMGM5MDctODlkMy00OTI1LWJkMTEtZGFiMDY2ZjUyZGEwIiwiZXhwIjoxNzkxMTM0OTM3LCJpYXQiOjE3OTExMzEzMzd9.p2JLeWFuJC_zaoUpM09F1SbSCrOqSfOFrextLF691vA",
+    "refreshToken": "PjA30QH-GacA7RVcltgE4gzQ9ZCuzkmSn0Kx48bSyf4",
+    "enabled": true
   }
 ]
