@@ -1058,5 +1058,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InMuY2hhdWhhbjI1MEBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjNhODcxMWYwLTRjZWItNGI2Mi1iMzY2LTE5ODhmZDZlNDYxZSIsImF1dGhfdGltZSI6MTc5MTEzMTQzOSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiIwYzNjZTdkMS01ZGMyLTQ1ZDctYTgwOC03ODlkN2U3MmY3ZmIiLCJleHAiOjE3OTExMzUwMzksImlhdCI6MTc5MTEzMTQzOX0.AFumQckz8cWq41Gk0IvTBYJ15_cndLO7HR9b4eO_FVU",
     "refreshToken": "UY-wdw9trnm30aFfLK-SmlifGSdTwxp9TdHzPZTHg14",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 107",
+    "email": "julianhall97@freediamond.in",
+    "deviceId": "7434a944ef08820b",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imp1bGlhbmhhbGw5N0BmcmVlZGlhbW9uZC5pbiIsInNpZCI6ImQ5ZGFmYTk0LWRmNmQtNGY5YS1iYjMzLTBjMjJiZDk5YzU3ZCIsImF1dGhfdGltZSI6MTc5MTEzMTQ2MSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI0MTBkNmMyMy1iNmRlLTQxODAtYThjYi0zMjU3YzAyYzk4NGIiLCJleHAiOjE3OTExMzUwNjEsImlhdCI6MTc5MTEzMTQ2MX0.UpBIfNTwkXQCXdekriYeCsq5y9jxvgA_FuGsGfns9ng",
+    "refreshToken": "VugdAq-BzlpWU9rXU25OxWAbasiWO0B8kYJ_LWlvDZM",
+    "enabled": true
   }
 ]
