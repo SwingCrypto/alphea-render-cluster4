@@ -1328,5 +1328,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImEudGhvbWFzQGZyZWVkaWFtb25kLmluIiwic2lkIjoiMGZkYmE1ZWItYTczNi00ODc1LWI5MTUtYmUwNjhmMzgxYTRhIiwiYXV0aF90aW1lIjoxNzkxMTMyMTE4LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjVlZjJjM2M4LTAxMGEtNDUwZS1hOGY2LWY3ODExOTM5MTBjZiIsImV4cCI6MTc5MTEzNTcxOCwiaWF0IjoxNzkxMTMyMTE4fQ.HCSlGXQVccAtBxDhepYzbYdHOCEIR3czxEMNgy9Z3e4",
     "refreshToken": "vj9HH6dUtNaojQAk-GWBgf-EgXM_fcSY4JV36tFv0sI",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 134",
+    "email": "a.costa42@freediamond.in",
+    "deviceId": "decaaf9dd1806c06",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImEuY29zdGE0MkBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjJiODIxOTUxLTAyZmYtNGE2Mi05OGYwLTBhNWE2MDc4OWU0YyIsImF1dGhfdGltZSI6MTc5MTEzMjE0MywiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI4ZmUwZmE1OS02MmI2LTQ4ZmUtOGVhNC1hMzNjOTQ2ZjliY2QiLCJleHAiOjE3OTExMzU3NDMsImlhdCI6MTc5MTEzMjE0M30.NRASIjRFyM0uxvJHuRcTq05N3Kh6fEkK1FX2hgfKouI",
+    "refreshToken": "A73t36_qDZDoV-zH4uw_nI564x0XNAygUH7Zr8zpKdQ",
+    "enabled": true
   }
 ]
