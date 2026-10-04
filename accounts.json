@@ -1708,5 +1708,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InMuYnJvd244MkBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjczMzkyMDNmLTI2NGEtNDEwMC1iZjdjLTAzMGRlYzk5MzZjYSIsImF1dGhfdGltZSI6MTc5MTEzMzAxMiwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI1NGRkZmNlZS1lOTAzLTQxZDEtYjIzNi0wNTRiZTEyMzBiMzAiLCJleHAiOjE3OTExMzY2MTIsImlhdCI6MTc5MTEzMzAxMn0.Ol7Fae8MH0aC_ATmujU1ilPDtJz60AS-C1_bVXCXFTQ",
     "refreshToken": "Dtx3XcnPJefCc6p5amCVvVm1ipIXwDvur_pzXU3n54k",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 172",
+    "email": "james.roberts@freediamond.in",
+    "deviceId": "0542b8cfc9e3bf3f",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImphbWVzLnJvYmVydHNAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiJlMGE4N2QxMS00MGMxLTQ4NDUtODE2ZC02YWE5MDc1MGU4NGIiLCJhdXRoX3RpbWUiOjE3OTExMzMwMzYsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiOTgyM2Q4YmUtMTJiNi00YTAxLWI5NDItN2NmMzZhYTcxYTBhIiwiZXhwIjoxNzkxMTM2NjM2LCJpYXQiOjE3OTExMzMwMzZ9.okKdXUh5TNhQwO3mTPtjbysk1v1UYmbvd_RTaYWWFZo",
+    "refreshToken": "jMbz5ae0ItXwVwdASd3n4dIttj47d0h52CG7uMpOAo0",
+    "enabled": true
   }
 ]
