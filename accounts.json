@@ -145,8 +145,8 @@
     "deviceId": "4c30c5e432748dc2",
     "proxy": null,
     "location": "Direct Render VPS",
-    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImtyaXNobmFfY29zdGE1NUBmcmVlZGlhbW9uZC5pbiIsInNpZCI6ImI4YTk1NWIzLTJkMDktNDc1Yi1iYzM0LTAzYmM3YzAzM2QzZCIsImF1dGhfdGltZSI6MTc5MTAyNzk1NSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI3ZmYwYzlkOC02YTY0LTRjMzUtYmRiYy0zODczMjE2ZGE5YjAiLCJleHAiOjE3OTExMzI5MDcsImlhdCI6MTc5MTEyOTMwN30.s86Idltub31NTp54SEQkgP4seINByCKSW49KE-5F8tk",
-    "refreshToken": "MxdlvmpE10l3gPJkGYUorstpOzmfxmAalmxK7yOJKCU",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImtyaXNobmFfY29zdGE1NUBmcmVlZGlhbW9uZC5pbiIsInNpZCI6ImI4YTk1NWIzLTJkMDktNDc1Yi1iYzM0LTAzYmM3YzAzM2QzZCIsImF1dGhfdGltZSI6MTc5MTAyNzk1NSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI3ZmYwYzlkOC02YTY0LTRjMzUtYmRiYy0zODczMjE2ZGE5YjAiLCJleHAiOjE3OTExMzY0MDEsImlhdCI6MTc5MTEzMjgwMX0.IHkyLMOr1IkyPAdOmqfJDe7weSFh4yHW3MOUrI7Z7CY",
+    "refreshToken": "AwlQJLmbYImXr42J79k5gbTaOX9kJFbmHlWdiRJSZrM",
     "enabled": true
   },
   {
@@ -1607,6 +1607,16 @@
     "location": "Direct Render VPS",
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hcnRpbmEuY2hhdHRlcmplZUBmcmVlZGlhbW9uZC5pbiIsInNpZCI6ImUwNWRlZTJjLTZhMjUtNGVjNC04ZmM2LTVlMzg2ZTRjZWM2YSIsImF1dGhfdGltZSI6MTc5MTEzMjc3MSwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiIyNjQ1OGNmNy1mMmUyLTRhZGYtODg0Ny1iYWMxMDIxZWEzODkiLCJleHAiOjE3OTExMzYzNzEsImlhdCI6MTc5MTEzMjc3MX0.JpZtnQETpK9qtUNRl3E0FTShSWO_yO_iDbtlvVzSbb0",
     "refreshToken": "eZzmV-bOzveC_3eY0-cCMreXmEqRBXAiK22bat5xmLw",
+    "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 162",
+    "email": "nolan.patel2002@freediamond.in",
+    "deviceId": "ea9db64d7eb1f69e",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5vbGFuLnBhdGVsMjAwMkBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjdhMDNmMzc4LTYzODQtNDQzYi05YTZiLTNiNTFiZTViZWI5YiIsImF1dGhfdGltZSI6MTc5MTEzMjc5OCwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiI5YmY3MzNjNy1hYWE2LTRiYjQtYjJjYi03YjRjZWVmMjJkZTEiLCJleHAiOjE3OTExMzYzOTgsImlhdCI6MTc5MTEzMjc5OH0.hPWE_-etx6ZnKBihbCfUnbP37HD5tacLLHNuPXM7kko",
+    "refreshToken": "s5qtCBRwhTE9dtu90Oz2OoPHS--bYOS11hcEJOgEmJc",
     "enabled": true
   }
 ]
