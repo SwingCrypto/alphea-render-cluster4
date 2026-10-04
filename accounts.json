@@ -1508,5 +1508,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJhc2htaV90cmlwYXRoaTQwQGZyZWVkaWFtb25kLmluIiwic2lkIjoiMzlhMWU2ZWQtYzhlZS00ZGNhLThkZGQtNmZjNTRlYzVjNjdjIiwiYXV0aF90aW1lIjoxNzkxMTMyNTM2LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjY5ODhmYTUwLWIwYWEtNDExNi1hM2RiLTJiNGE1NzAzZTY1OSIsImV4cCI6MTc5MTEzNjEzNiwiaWF0IjoxNzkxMTMyNTM2fQ.Jfg5gYAwPdDcc9D1ibtaIzS4IZk_4chAfsL2q_F8Dw0",
     "refreshToken": "No9v-f8H5HPxnS3Ybk9wp908qYqsqGQK6epYvw25IEc",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 152",
+    "email": "sophia60@freediamond.in",
+    "deviceId": "0cad0e9422d44e6e",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNvcGhpYTYwQGZyZWVkaWFtb25kLmluIiwic2lkIjoiYjBkMDA0ZjUtZTQ4Ni00MzM1LWE1YmQtMGU2ZTI5MjU4N2ZmIiwiYXV0aF90aW1lIjoxNzkxMTMyNTU5LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjI2Yzg3NmFmLTYxMjYtNDA3OC05YzI1LWFmYTRlYjNmNDUwNSIsImV4cCI6MTc5MTEzNjE1OSwiaWF0IjoxNzkxMTMyNTU5fQ.yx-DNB_xYg8BLUk9o1zC3WBDQ-7HDH7cgVAQncLa8mw",
+    "refreshToken": "ntpO8k4IdSSSrD96y-fb1sGSM7iuMDL3tgJw23WCRWU",
+    "enabled": true
   }
 ]
