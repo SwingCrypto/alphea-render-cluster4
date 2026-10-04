@@ -1818,5 +1818,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJ5YW5zaWx2YTE5OTNAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiIxMDZhZTkxNS1jYjYxLTQ3YTYtYjQ2Yi1kNjUxNmNhN2EwOGUiLCJhdXRoX3RpbWUiOjE3OTExMzMyODYsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiMzJjZmMyMTktNzRkOS00OTRhLWEyNzEtMTA0YWM0YmJlMGY3IiwiZXhwIjoxNzkxMTM2ODg2LCJpYXQiOjE3OTExMzMyODZ9.nL4qmFbZtgoQmweRgWfPZQi_ZsPd5eZwwG8cATUYDjI",
     "refreshToken": "JITP-ntv_xQ9s5SqfzqGf8hAQZ00jMy24E8mM7vpYSM",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 183",
+    "email": "w.gonzalez631@freediamond.in",
+    "deviceId": "f1c44c17d1814466",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IncuZ29uemFsZXo2MzFAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiJkNDA1NjZlMC01MTVmLTQ2MmUtYjVkMC05MDg5ZjU0NWE0NTAiLCJhdXRoX3RpbWUiOjE3OTExMzMzMTQsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiMTE2M2M0MjEtZDliMi00YzdmLWE0NGYtZjE4ZTBhZDEyZTczIiwiZXhwIjoxNzkxMTM2OTE0LCJpYXQiOjE3OTExMzMzMTR9.tSeR_nu-maXce6rULo0e93MhYXUoaNAtZecdEE8E-Bs",
+    "refreshToken": "a58WR1M9qgvighn9aTpM3LKuNFADYAL4xrZZt4oXNj4",
+    "enabled": true
   }
 ]
