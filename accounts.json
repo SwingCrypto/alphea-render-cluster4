@@ -1468,5 +1468,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Incuc2VuQGZyZWVkaWFtb25kLmluIiwic2lkIjoiMTZkMWQ3MjEtOTE4Zi00ZGFhLTlhMTEtZDkyODVmZTA4NTUyIiwiYXV0aF90aW1lIjoxNzkxMTMyNDQ1LCJpc3MiOiJhbHBoZWEtY29ubmVjdCIsInN1YiI6IjNjYWIzM2YxLTEzZTktNDQ2Mi04NzNhLTg1ZWVjNmZmM2NmYSIsImV4cCI6MTc5MTEzNjA0NSwiaWF0IjoxNzkxMTMyNDQ1fQ.VPM935QEQ6rKjNwT30dz-HYs4HIcRWWWApU0hTlb_3s",
     "refreshToken": "O6_CltcSU_dJDBEI9CoiW6rslETHC0t-vY3ICmGTSx0",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 148",
+    "email": "mila252@freediamond.in",
+    "deviceId": "fe981eeb6626aee8",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1pbGEyNTJAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiI4YTczMTA4Yy1kNDczLTRkM2EtOGQzNi1mOWU2ZWE4ZmM0MmEiLCJhdXRoX3RpbWUiOjE3OTExMzI0NjgsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiMjczMDE4M2UtZjhhMS00MWYwLTlhMDQtYTc3NmI4NjVlYzkwIiwiZXhwIjoxNzkxMTM2MDY4LCJpYXQiOjE3OTExMzI0Njh9.MPfskUOafBWHQ3L7o13C35wPTG9A33c-QnwOQan21t0",
+    "refreshToken": "sKWaWLOaBu19PitRX-3N4FecmnkO3KLVXNb2NhNjhYM",
+    "enabled": true
   }
 ]
