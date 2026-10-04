@@ -1118,5 +1118,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFhbnlhLmphY2tzb245MkBmcmVlZGlhbW9uZC5pbiIsInNpZCI6ImE2MjQ2YmJjLWRkODktNDI4Yy1hMzBmLWU4NjZkM2I2ZmQ4YSIsImF1dGhfdGltZSI6MTc5MTEzMTU5NCwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiJmYTNlOWU2OS1iYzA5LTQzNzItODYwMy1hMGEyY2Y4OWE4YTciLCJleHAiOjE3OTExMzUxOTQsImlhdCI6MTc5MTEzMTU5NH0.deEjHnD5fq7NiuALzQJQwqxMEAeU5NZB-sxj1xZihyM",
     "refreshToken": "rKlvhXC0ExmxgzHIPvt-3YnANbMHCB0PO3iauogXcAw",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 113",
+    "email": "pallavi.silva54@freediamond.in",
+    "deviceId": "ffa51affbaf3bb68",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhbGxhdmkuc2lsdmE1NEBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjZmMDVhNmE5LWExNDEtNDNlNi04ZjQ2LTM1MTc2MTZlMmVkYiIsImF1dGhfdGltZSI6MTc5MTEzMTYyMiwiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiIzYTg3YjJjOC01NGE2LTRkOTMtYjY0ZS0xNGQ0NjIzYzU2ODIiLCJleHAiOjE3OTExMzUyMjIsImlhdCI6MTc5MTEzMTYyMn0.tpKYih6ulg88K04c_uyvBOHWdRY7UvD2AVrJRykRszs",
+    "refreshToken": "oXcd2cOFrjYH940j48B9ZyZFx-msZWSGxalp8FHNVww",
+    "enabled": true
   }
 ]
