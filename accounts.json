@@ -1368,5 +1368,15 @@
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hbnVlbF93YWduZXI2OEBmcmVlZGlhbW9uZC5pbiIsInNpZCI6IjI5YzZhNWZlLWI1NTUtNDM1OS1hNTA1LTMwZWEzYmMxMWExNCIsImF1dGhfdGltZSI6MTc5MTEzMjIxMywiaXNzIjoiYWxwaGVhLWNvbm5lY3QiLCJzdWIiOiJmMTJiZjUwYi05MmIyLTQ3N2MtYjFkZi00NTYxZGUwODMyMjgiLCJleHAiOjE3OTExMzU4MTMsImlhdCI6MTc5MTEzMjIxM30.KRfnbBk-r-3psRGn7cz82yRBLLV36qVAvn8qTmitNbA",
     "refreshToken": "9sS6_buLvIKqq7g2dEfu5tyquiCfRcYwxEjuqNSeB2A",
     "enabled": true
+  },
+  {
+    "name": "Cluster 4 Node 138",
+    "email": "m.walker75@freediamond.in",
+    "deviceId": "8761f0fe569aab19",
+    "proxy": null,
+    "location": "Direct Render VPS",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im0ud2Fsa2VyNzVAZnJlZWRpYW1vbmQuaW4iLCJzaWQiOiIwYmU3MDczNC01ZjA4LTQ4MTAtYmYzNy00NTYyMzljYWExYjgiLCJhdXRoX3RpbWUiOjE3OTExMzIyMzcsImlzcyI6ImFscGhlYS1jb25uZWN0Iiwic3ViIjoiZTlkMzExZGQtZTM0Zi00ZGVmLWJkOGItMzQxMDcwZDA1OTljIiwiZXhwIjoxNzkxMTM1ODM3LCJpYXQiOjE3OTExMzIyMzd9.M3-Bz4nwjfycGHQNCH-j3VvGupyOkL6lLlQAc5RbdFU",
+    "refreshToken": "v_LQxn-H8d06f2JD5QePvENTg4lB917PQ-aDNuvLpbk",
+    "enabled": true
   }
 ]
