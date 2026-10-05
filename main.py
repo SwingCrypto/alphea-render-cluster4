@@ -228,7 +228,9 @@ class AccountWorker:
         if not self.access_token or '@alphea.local' in self.email:
             self.status = "Waiting for Sync"
         elif self.jwt_exp and time.time() >= self.jwt_exp:
-            if '@freediamond.in' in self.email:
+            if self.refresh_token:
+                self.status = "Connecting..."
+            elif '@freediamond.in' in self.email:
                 self.status = "Session Expired (Awaiting OTP)"
             else:
                 self.status = "401 Expired (Re-login Needed)"
@@ -245,7 +247,9 @@ class AccountWorker:
         elif not self.access_token or '@alphea.local' in self.email:
             self.status = "Waiting for Sync"
         elif self.jwt_exp and time.time() >= self.jwt_exp:
-            if '@freediamond.in' in self.email:
+            if self.refresh_token:
+                self.status = "Connecting..."
+            elif '@freediamond.in' in self.email:
                 self.status = "Session Expired (Awaiting OTP)"
             else:
                 self.status = "401 Expired (Re-login Needed)"
@@ -260,10 +264,11 @@ class AccountWorker:
     def update_cluster_state(self):
         exp_sec = max(0, int((self.jwt_exp or time.time()) - time.time())) if self.jwt_exp else 0
         if self.jwt_exp and time.time() >= self.jwt_exp and self.status == 'Mining Active':
-            if '@freediamond.in' in self.email:
-                self.status = "Session Expired (Awaiting OTP)"
-            else:
-                self.status = "401 Expired (Re-login Needed)"
+            if not self.refresh_token:
+                if '@freediamond.in' in self.email:
+                    self.status = "Session Expired (Awaiting OTP)"
+                else:
+                    self.status = "401 Expired (Re-login Needed)"
         CLUSTER_STATE[str(self.index)] = {
             'name': self.name,
             'email': self.email,
@@ -1095,22 +1100,23 @@ class AccountWorker:
             self.update_cluster_state()
             return
 
-        # 1. Proactive JWT renewal (2 min before exp)
+        # 1. Proactive JWT renewal (2 min before exp) - Silent Refresh Token Only
         if self.jwt_exp and time.time() > (self.jwt_exp - 120):
-            if not self.refresh_access_token():
-                if '@freediamond.in' in self.email:
-                    self.auto_relogin_via_otp()
+            self.refresh_access_token()
 
-        # 2. Check 401 / Dead / Relogin state
+        # 2. Check 401 / Dead / Relogin / Expired state - Token-First Safe Guard
         if '401' in self.status or 'Dead' in self.status or 'Waiting for Sync' in self.status or 'Auto-Relogin' in self.status or 'Expired' in self.status:
-            now = time.time()
-            if hasattr(self, '_last_relogin_attempt') and (now - self._last_relogin_attempt) < 300:
-                return
-            if '@freediamond.in' in self.email:
-                if self.auto_relogin_via_otp():
-                    self.start_foreground_session()
-            elif self.refresh_token:
+            # First Priority: ALWAYS try silent refresh token first without requesting OTP!
+            if self.refresh_token and 'Invalid' not in self.status:
                 if self.refresh_access_token():
+                    self.start_foreground_session()
+                    return
+            # Second Priority: OTP auto-relogin ONLY for freediamond.in accounts that genuinely lack a valid refresh token
+            if '@freediamond.in' in self.email and ('Invalid' in self.status or not self.refresh_token):
+                now = time.time()
+                if hasattr(self, '_last_relogin_attempt') and (now - self._last_relogin_attempt) < 600:
+                    return
+                if self.auto_relogin_via_otp():
                     self.start_foreground_session()
             return
 
