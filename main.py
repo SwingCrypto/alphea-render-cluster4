@@ -402,6 +402,11 @@ class AccountWorker:
                     return False
 
                 # Step 3: Verify OTP and get fresh tokens (with 2-attempt retry on transient network timeout)
+                verify_payload = {
+                    'email': self.email,
+                    'challengeId': challenge_id,
+                    'code': otp_code
+                }
                 vr = None
                 for v_att in range(2):
                     try:
@@ -1694,7 +1699,7 @@ def route_revive_cluster():
 @app.route('/api/relogin_dead_nodes', methods=['GET', 'POST'])
 def route_relogin_dead_nodes():
     """Never-Die endpoint: Find all 401 dead @freediamond.in nodes and auto-relogin via OTP"""
-    dead_nodes = [n for n in NODES if ('401' in n.status or 'Dead' in n.status) and '@freediamond.in' in n.email]
+    dead_nodes = [n for n in NODES if ('401' in n.status or 'Dead' in n.status or 'Auto-Relogin' in n.status) and '@freediamond.in' in n.email]
     
     def relogin_runner():
         add_log(f"[NEVER-DIE] Starting OTP relogin for {len(dead_nodes)} dead freediamond.in nodes...")
